@@ -1,0 +1,7 @@
+feature:
+  path:
+    bi_hua_shu_path: feature_generation/char_shape/trad_char_shape_feature/db/bihuashu_2w.txt
+    han_zi_jie_gou_path: feature_generation/char_shape/trad_char_shape_feature/db/bihuashu_2w.txt
+    pian_pang_bu_shou_path: feature_generation/char_shape/trad_char_shape_feature/db/bihuashu_2w.txt
+    si_jiao_bian_ma_path: feature_generation/char_shape/trad_char_shape_feature/db/bihuashu_2w.txt
+    simclr_model_path: feature_generation/char_shape/simclr/outputs/model.pth
